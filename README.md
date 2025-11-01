@@ -1,2 +1,2 @@
 # Site_belezaverdadeira
-https//: lorenasilva20.github.io.//https://github.com/lorenasilva20/Site_belezaverdadeira/tree/main
+https//: lorenasilva20.github.io.//file:///C:/Users/LAB4/Downloads/Site_belezaverdadeira-main/index.html
